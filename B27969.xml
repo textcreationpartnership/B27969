@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some directions to the panting-soul which hath been long travelling in the letter, but hath not yet been acquainted with the power...</title>
+            <author>Penington, Isaac, 1616-1679.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27969</idno><idno type="EEBO-CITATION">27927184</idno>
+  <idno type="VID">205781</idno>
+  <idno type="EEBO-PROQUEST">2248555177</idno>
+  
+            <idno type="STC">Wing P1193</idno>
+            <idno type="OCLC">27927184</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205781)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1731:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some directions to the panting-soul which hath been long travelling in the letter, but hath not yet been acquainted with the power...</title>
+                  <author>Penington, Isaac, 1616-1679.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 8: Isaac Penington, the Younger.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: cropped and stained, with loss of text. Defective British Library copy spliced at end.</note>
+                  <note>Reproduction of originals in Bodleian Library and British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205781:1"/>
+            <head>Some DIRECTIONS to the PANTING-SOUL, which hath been long travelling in the Letter, but hath not yet been acquainted with the Power, nor hardly so much as entred into the ministration of the endless Life (which is the Ministration of the Gospel) that it may feel the Spring, and come to drink there, of the living Waters.</head>
+            <epigraph>
+               <bibl>MATTH. 11. 28, 29, 30.</bibl>
+               <q>Come unto me all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me, for I am meek and lowly in heart, and ye shall find rest unto your souls. For my yoke is easie and my burden is light.</q>
+            </epigraph>
+            <head type="sub">Some sweet Meditations sprang in my heart concerning this portion of Scripture, with breathings of spirit for, and rowlings of bowels towards those that labour and are heavy laden, which I find drawings to communicate.</head>
+            <p n="1">1. <hi>IN the Gospel</hi> (which is the power of God unto Salvation), <hi>is the Souls rest.</hi> It is the Doctrine of the Kingdom, wherein is Life, Joy, Peace, and everlasting Rest to the Soul in God. The Law had the Shadow of the good things to come, but under it was not the posses<g ref="char:EOLhyphen"/>sion of the good things themselves, but only a labouring after them, and a mourning and load because of the want of them: but in the Gospel is the Substance, the Enjoyment; Life and Immortality is there brought to Light, and an Enterance ministred into the everlasting Kingdom, where they are felt possessed and enjoyed. The Kingdom of Heaven is at hand, saith the fore-runner: It is come, saith the Messiah: and in it there is righteousness, and peace, and joy in the pure Spirit of Life.</p>
+            <p n="2">2. <hi>It is the will of the King of Saints, that his People should enjoy the Rest and Peace of his Gospel.</hi> He would not have them alwayes labouring and hea<g ref="char:EOLhyphen"/>vy laden, as under the Law: but he would have their Souls feel and enjoy the Ease, the Liberty, the Sweetness, the pure Power and eternal Rest of his Life. The Spirit of the Lord was upon him to preach glad Tidings to the Meek, Liberty to the Captives, Life to the Dead, the Opening of the Prison to the Prisoner of Hope, the Binding up of the Broken-hearted, the Pouring in of Oyl upon the VVounded: And he would have the Souls of his People enjoy that which he came to bring them.</p>
+            <p n="3">3. <hi>Christ hath plainly chalked out the path of his rest to every weary panting</hi>
+               <pb n="2" facs="tcp:205781:2"/>
+               <hi>soul, which he that walketh in cannot miss of.</hi> He hath <hi>cast up, cast up,</hi> he hath <hi>made the way plain</hi> in the Gospel, so plain that the wayfaring man, though a fool, yet keeping to the light of the Gospel, cannot erre therein, or miss of the blessed rest thereof. How is it? Why, <hi>Come unto me; Take my yoke upon you, and learn of me.</hi> He that walketh in this path, cannot miss of it: The rest is at the end of it, nay the rest is in it: <hi>He that believeth entereth into the rest.</hi> The true Faith, the Faith which stands in the Power, and which is given to the birth which is born from above, is the substance of the rest hoped for, and there is a true taste and some enjoyment of it given to him that truly believeth.</p>
+            <p n="4">4. <hi>The rest was once felt and enjoyed, when the Gospel was known in Power.</hi> Believers in the first day of the Gospel, before the night ovetrook that glo<g ref="char:EOLhyphen"/>rious dispensation, found <hi>Peace and Joy in Believing,</hi> yea they could <hi>Rejoyce in the Lord always.</hi> They felt the Power and the Life, which stood over all the Powers of darkness, and brought good to them out of every affliction, and out of every temptation, and out of every distresse; so that they stand<g ref="char:EOLhyphen"/>ing in the Life and in the Power which had quickened them and was pre<g ref="char:EOLhyphen"/>sent with them, they could <hi>count it all joy when they fell into manifold Temp<g ref="char:EOLhyphen"/>tations,</hi> knowing the advantage which would accrue to them thereby, and possessing their Souls in the pure patience, till God wrought it out for them.</p>
+            <p>
+               <hi>They had an Enterance ministred to them into the everlasting Kingdom: They received the Kingdom which could not be shaken, and in it had fellowship with the Father and with the Son, and in the eternal Light the blood ran in their vessels, which cleansed them and kept them pure; and they sat down with Christ in the heavenly places, even every one in the particular mansion which God had built in them by his Spirit. The Fear of the living God was put in their hearts; The Spirit of the Lord was within them, and there his Law was writ, and read in the Spirit, and the Treasures of his Kingdom were opened by the key of David in the hand of the Spirit; and their souls had true satisfaction and rest in measure, and were travelling on towards the fulness.</hi>
+            </p>
+            <p n="5">5. <hi>There is no rest to the soul, to be enjoyed in the Gospel, from under the Yoke.</hi> This stands Eternally. That which yokes down, that which would be at ease and liberty out of the Life, that is the souls true rest, there is no other; and under the yoke it is enjoyed, and not otherwayes: onely, when that which is to be yoked down is consumed and destroyed, it is then no longer a Yoke, but perfect Liberty. But the same thing which is the Liberty, is the Yoke: And under the Yoke the sweetness, the ease, the lightsomness, the safe possession of the Life is enjoyed. Mark <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his therefore diligently; The Yoke is not one thing and the Liberty another, but one and the same. The Power of God, the Life everlasting, the pure Light, the divine Na<g ref="char:EOLhyphen"/>ture is a Yoke to the transgressing Nature; but it is the ease, he pleasure, the rest, the peace, the joy, the natural center of that which is born of God.</p>
+            <pb n="3" facs="tcp:205781:2"/>
+            <p> Now to the soul that hath felt breathings towards the Lord formerly, and in whom there are yet any true breathings left after his living pre<g ref="char:EOLhyphen"/>sence, and after the feeling of his eternal vertue in the heart, I have this to say. <hi>Where art thou? art thou in thy souls rest? dost thou feel the ver<g ref="char:EOLhyphen"/>tue and power of the Gospel? dost thou feel the ease which comes from the living arm, to the heart which is joyned to it in the light of the Gospel? Is thy labour<g ref="char:EOLhyphen"/>ing for life in a good degree at an end? And dost thou feel the life and power flowing in upon thee from the free Fountain? Is the load really taken off from thy back? Dost thou find the captive redeemed and set free from the Power of sin, and the captivity broken, and he which led thee captive from the Life and from the eternal Power, now led captive by the Life, and by the redeeming Power, which is eternal? Hast thou found this, or hast thou missed of it? Let thine heart answer.</hi> Ah, do not imagine and talk away the rest and salvation of thy soul. The Gospel-state is a state of substance, a state of enjoying the Life, a state of feeling the Presence and Power of the Lord in his pure holy Spi<g ref="char:EOLhyphen"/>rit, a state of binding up, a state of healing, a state of knowing the Lord and walking with him in the light of his own Spirit. It begins in a sweet powerful touch of Life, and there is a growth in the Life (in the Power in the divine Virtue, in the Rest, Peace, and Satisfaction of the Soul in God) to be administred and waited for daily. Now art thou here, in the living Power, in the divine Life, joyned to the spring of Life, drawing wa<g ref="char:EOLhyphen"/>ter of Life out of the well of Life with joy? Or, art thou dry, dead, bar<g ref="char:EOLhyphen"/>ren, saplesse, or at best but unsatisfiedly mourning after what thou wantest?</p>
+            <p>Well, ye that are dry, dead, barren, as it were without the Living God, (that know not the shining of his Sun, nor the descending of his dews from on high on his tender plants, nor the care, diligence and circumspection of the husbandman over his husbandry.) Oh wait for the quickening virtue, for the visitations of the day-spring from on high, that ye may be quicken<g ref="char:EOLhyphen"/>ed again to God, that ye may find his Life visiting you, his Spirit breathing upon you, that the seed of Jacob may be raised in you to travel out of this barren state, even out of this land of darkness, and from under the shadow of Death, to the Land where Life lives and flourishes, and daily distribu<g ref="char:EOLhyphen"/>teth plentiful nourishment and refreshment to all its off-spring, who are taught to wait for it, and to feed on it in the holy place, out of the sight of the eye of the fleshly wisdom.</p>
+            <p>And ye who are still gasping after the living God, on whom the breath<g ref="char:EOLhyphen"/>ings of Life still abide, (who remain unsatisfied inwardly for want of the presence of the Lord, and whose hearts still mourn and lament deeply af<g ref="char:EOLhyphen"/>ter him) Oh consider what is the matter, that ye have mourned so long, and sought so long, and yet to this day are at a distance from the thing ye have mourned and sought after.</p>
+            <p>
+               <hi>Strait is the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te▪ narrow is the wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that leadeth unto Life▪ <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+               <pb n="4" facs="tcp:205781:3"/>
+               <hi>be that find it.</hi> The way of unbelief is broad, yea the way of mischief is broad also▪ it is easie for a man so to believe concerning Christ, or in Christ (as his heart may call it) as to miss of the nature of true Faith, and of the sweet and blessed effects which accompany it. It is easie likewise to miss the yoke (to take up a wrong yoke in the self-will, self-wisdom, self-interpretation of Scriptures) or easie starting aside from the true yoke: but it is hard coming under the yoke of the Life, and hard abiding un<g ref="char:EOLhyphen"/>der it. Again, it is easie mis-learning: A man may so read, and so hear, as that he may be always learning, and never come to the know<g ref="char:EOLhyphen"/>ledge of the Truth, never come to the Truth as it is received and held in Jesus; but may so get and hold the knowledge of the Truth, as man in his wisdom may get and hold it from the Letter. And if a man thus miss the way, how can he attain the end? If a man begin not in the true Faith, in the living faith, how can he attain the Rest which the true Faith alone leades to? If a man miss of the yoke, or abide not constantly under the yoke, how can he meet with the true ease and rest which is in it, and which it alone can administer? If a man learn not the Truth aright of the true Teacher, how can he ever reap the effects of the true knowledge? Ah poor hearts! it is not enough to have breathings after God, nor to be ve<g ref="char:EOLhyphen"/>ry diligent and industrious either in outward Ordinances, or inward exer<g ref="char:EOLhyphen"/>cises of Spirit, but the way of the Gospel must be cast up by God, and the Soul led into it by him, and daily preserved by him, and must walk in the path which is proper for it to walk in, or it may mourn and cry all its days, and never meet with that injoyment of God and satisfaction in God, which it waits for and crys after. It is one thing to mourn after a Gospel-state, but another thing to be brought into it by the Power. With my heart I own those that mourn after and feel the want of God, where-ever they are: But this I know certainly, that they can never come to the enjoyment of him, but in that living path which the Scriptures testifie of to be in him who is the Life, and which his Spirit is now found manifestly leading into, blessed be his Name.</p>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> But how may my poor soul, who have long mourned, and groaned, and been sick of love after my beloved, but could never attain to the satisfactory enjoyment of him, come to walk in this path, that so I may meet with and lie down in that Power of Life and Salvation, which the Gospel holds forth to the true be<g ref="char:EOLhyphen"/>liever, and which I have been long sensible of the deep want of?</head>
+               <p>
+                  <hi>Answ.</hi> Thou that wouldst enjoy thy Beloved, and feel the Rest of his Gospel, and walk in that Path which leads thereto, wait to learn of the Spi<g ref="char:EOLhyphen"/>rit these things following.</p>
+               <p n="1">1. <hi>Know what it is that is to walk in the path of Life, and indeed is alone ca<g ref="char:EOLhyphen"/>pable of walking therein.</hi> It is that which groans, that which mourns, that <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> God in thee▪ The Path of Life is for the Seed of Life
+<pb n="5" facs="tcp:205781:3"/> The true knowledge of the Way, with the walking in the Way, is reserved for Gods Child, for Gods Traveller. Therefore keep in the regeneration, keep in the Birth. Be no more then God hath made thee. Give over thine own willing, give over thy own running, give over thine own desiring to know or to be any thing, and sink down to the Seed which God sowes in the heart, and let that grow in thee, and be in thee, and breath in thee, and act in thee; and thou shalt find by sweet experience that the Lord knows that, and loves and owns that, and will lead it to the inheritance of Life, which is its Portion. And as thou takest up the Cross to thy self, and sufferest that to overspread and become a yoke over thee, thou shalt be<g ref="char:EOLhyphen"/>come renewed, and enjoy Life and the Everlasting Inheritance in that.</p>
+               <p n="2">2. <hi>Know in what Light it is to walk,</hi> which is the Light of the Spirit. There the Child is begotten (not in Satans Darkness, or highest Transform<g ref="char:EOLhyphen"/>ings into the likeness of Light, which is but Darkness; nor in the light of mans wisdom, searching Knowledge or comprehension) and there it walks: in that Light it fetcheth every step and motion towards the Land of Life. Therefore hold no knowledge out of the Spirit. If any knowledge concerning the things of God be held out of the freshness of the Spirit, it presently proves dead and unprofitable. The Spiritual <hi>Israel</hi> cannot travel without a Spiritual Light, which Light is Eternal and incompre<g ref="char:EOLhyphen"/>sible, and cannot be held by mans spirit, but shineth fresh into the re<g ref="char:EOLhyphen"/>newed Spirit every day, and so is dayly gathering it more and more in<g ref="char:EOLhyphen"/>wards into it self, comprehending it in it self, and preserving it in its own Purity, Clearness and Brightness. Oh this is it hath undone many, even catching at Light from the Spirit, transplanting the Image of Divine things into the Earthly Principle, and there holding of them in the Earth<g ref="char:EOLhyphen"/>ly part, growing wise by them there, and making use of them from thence a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man sees good, and not seeing a necessity of depending on the Spirit for fresh Light &amp; Life every day, to every spiritual motion. Thus the traveller soon comes to lose the true path, and instead thereof travels on in a Road of his own wisdoms forming: and so though he seems to himself to make a large Progresse, yet makes no true Progresse at all, but is exceedingly run out aside in a by way, all which ground he must traverse back again, ere he can come to the Truth of his former State, or proceed in the true travel.</p>
+               <p n="3">3. <hi>Know and keep to the Power,</hi> which alone began any true work in the heart, which alone also can preserve it, and which alone can carry it on. Christ was made a Priest, <hi>not after the Law of a carnal commandment, but after the Power of an endless life:</hi> and every sacrificer under him (which every true Believer is) is so made by the same Power. The Powers of Darkness are continually at hand, which nothing can stand its ground against (much less walk on safely) without being in that Power which is above them. The first coming to Christ must be in the Power of the Fa<g ref="char:EOLhyphen"/>thers
+<pb n="6" facs="tcp:205781:4"/> drawing: and no believing afterwards is of the true nature, nor will avail the soul in its progress and travells towards Life, but what abides in, and goes forth in the same Power. So the taking up the yoke and drawing in it, must be by the Power of the new Life. And so must the disciples learning be. As the Master teacheth in the Power of the Spirit, the things which alone can be seen with the new eye, heard with the new ear, and received into the new heart: so the Scholar must learn and receive his Lessons of Life in the same Power. Let any Disciple of Christ be from under the shadow of the Power, believe out of the Pow<g ref="char:EOLhyphen"/>er, walk out of the Power, act out of the Power; he is from that wherein his Life stands, and wherein alone is his Preservation, and ah, how liable is he then to falls, bruises, snares and temptations of the enemy.</p>
+               <p n="4">4. <hi>Watch against the selfish wisdom,</hi> in every step of thy growth, and in e<g ref="char:EOLhyphen"/>very spiritual motion, that that come not between thee and thy Life; that that deceive thee not with a likeness, a shadow, making it appear more pleasing to thy eye than the substance. Every step of thy way it will be laying baits for thee, and it is easie for deceit to enter thee at any time, and for that wisdom to get up in thee under an appearance of Spiritual wis<g ref="char:EOLhyphen"/>dom, unless the Lord tenderly and powerfully preserve thee: and if it pre<g ref="char:EOLhyphen"/>vail, it will lead thee from the path of the true wisdom; It will cozen thee with a false faith instead of the true faith, with false praying instead of the breathings of the true child, with diligence and zeal in thy false way, in<g ref="char:EOLunhyphen"/>stead of the true zeal and diligence; yea it will hurry thee on in the path of error, shutting that eye in thee which should see, and hardening thy heart against thy bosom-friend. And being thus deceived, thou mayst be as zealous in thy age and generation against the Truth, as the Jews were in theirs: and as certainly as they put Christ to death, and persecuted his Apostles, though they cried up the former Prophets; So certainly thou (under this deceit) canst not but act against the present dispensation and appearance of Christ's Spirit, and wouldst persecute either the Prophets, Apostles or Christ himself, were it their present day now so to appear as for<g ref="char:EOLhyphen"/>merly they did.</p>
+               <p n="5">5. <hi>Let nothing judge in thee</hi> (concerning thine own heart, or concerning others, or concerning any way or truth of God) <hi>but onely the begotten of God</hi> in the heart. Let the Light in which thou art begotten to God, and which shines upon his begotten, be the onely Judge in thee, and then thou canst not erre in Judgement. Be not hasty, be not forward in Judgement, keep back to the Life, still waiting for the appearance and openings of the Life. A few steps fetched in the Life and Power of God are much safer and sweet<g ref="char:EOLhyphen"/>er than an hasty progresse in the hasty forward spirit.</p>
+               <p>Indeed this is the true Religion, to feel God beginning the work, and to wait on him for his carrying it on. The feeling of Gods Spirit begining
+<pb n="7" facs="tcp:205781:4"/> somewhat in the heart, the hearts waiting on him for more of his Spirit, and walking on with him in his Spirit, as he pleaseth to quicken, lead, draw and strengthen, this is the Spiritual and true Religion: and there is no Duty or Ordinance of the Gospel out of the Spirit, but it is easie crying up, and observing the likeness of any of them out of the Spirit, into which observance a strange spirit easily enters, and then that which was of God in the heart, soon withers, and a contrary building is raised, and the state of the heart changed. Oh wait on the Lord, that he may give you to under<g ref="char:EOLhyphen"/>stand these things: for the Apostacy from God is very deep, and more provoking among the Protestants than among the Papists, yea most of all provoking, where it is most inward and Spiritual.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> But how may I know and keep to the begotten of God, and to the Light and Power of the Lord, and keep down the fleshly wisdom and comprehension con<g ref="char:EOLhyphen"/>cerning the things of God?</head>
+               <p>
+                  <hi>Answ.</hi> When God begets life in the heart, there is the savour of it in thy vessel, and a secret living warmth and vertue, which the heart in some measure feels, whereby it is known. Lie low in the fear of the most high, that this leaven may grow and increase in thee. This is the leaven of the Kingdom, this is it which must change thy heart and nature, and make thy vessel (which perhaps hath been long and much corrupted) fit to receive the treasure of the Kingdom. Now while the savour is upon thee, while the vertue of the Life is fresh in thee, thou findest some strength towards God, with some little taste and discerning of the things of his Kingdom: know thy weakness, and go not beyond thy measure, but in what thou hast received bow before the Fullness, worship God in that, and be patient in what he exercises thee withal, waiting for more from him. And when the night comes upon thee, and thou perhaps art at a loss, missing the savour and presence of the Life, and not knowing how to come by it again; Be patient and still and thou wilt find breathings after a fresh visitation, and a meek, humble, broken sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit before the Lord. Thou wilt see thou canst do nothing to recover his presence again, nay thou canst not so much as wait for him, or breath after him without his help: but he is nigh to the poor, nigh to the broken, nigh to the distressed, nigh to the helpless. Oh do not with thy fleshly cryes and roarings think to awaken thy Beloved before his season; but in the night of distress, feel after somewhat which may quiet and stay thy heart till the next springing of the day. The Sun will arise, which will scatter the clouds; and he is near thee who will give thee to hope that thou shalt yet see God, &amp; find again the quickenings &amp; leadings of his Spi<g ref="char:EOLhyphen"/>rit. And in the day of his Power thou wilt find strength to walk with him: yea in the day of thy weakness his grace will be sufficient for thee. And he will nurture <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hee up in his life by his pure spirit, causing thee to grow under his shadow: and he will be teaching thee to live, and to speak, and to move
+<pb n="8" facs="tcp:205781:5"/> and act from the Principle &amp; within the compass of his Life &amp; Light eternal. Only be not wise to catch the notions of things into the earthly part, where the moth can corrupt, and where the thief can break through and steal: but know the divine treasury, where all the things of Life are treasured up by the Spirit, and handed forth to the living Child with fresh Life, according to its need of them. And thus thy heart being kept close to God, and thy Spiritual sences continually exercised about the things of God, it will be easie to thee to know the Shepherds voice, &amp; to distinguish the sound of the Spirit in thine own heart. And that which tries spirits and motions in thine own heart, will also give thee the discerning of Truth and Error abroad, even of the Spirit of God, and the spirit of Satan in others, so that thou wilt be able to try not onely words, but Spirits, becoming acquainted with the anointing, which savours all things and will give thee to Judge, not by the Words but by the Power: For thou thy self being in the Power, in the Anointing, in the Savour, it will become natural to thee to feel, to taste, to know and unite with what is one with thy Life, what comes from the same spirit in others, and to turn from the contrary. And thus thy Life, thy Growth, thy Path will be sweet, safe, cleer, certain, demonstrative in the Spirit, and past all reasonings of flesh and blood, either in thy self or others. The beginning of Life Eternal is in an higher Principle, than man can come at. Man's wisdom and knowledge of the things of God, is but bruit<g ref="char:EOLhyphen"/>ish before it. As thou comest into that Principle, abidest and growest in that Principle, thou art beyond man's judgement, and art able to judge man, and fathom his whole course as with a span, but art quite out of his reach in the lowest of thy motions, thoughts or actions, I mean such as flow from and are comprehended in the Life.</p>
+               <closer>
+                  <signed>
+                     <hi>ISAAC PENINGTON.</hi> The Younger.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Robert Wilson, <hi>at the sign of the</hi> Black-spread-Eagle <hi>and</hi> Windmil, <hi>in</hi> Martins Le Grand, 1661.</p>
+            <pb n="1" facs="tcp:205781:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:205781:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:205781:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:205781:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:205781:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:205781:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:205781:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:205781:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
